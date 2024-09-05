@@ -1,5 +1,4 @@
-#Bomba de Combustível
-##Escreva um programa em Java, utilizando orientação a objetos, para controlar a operação de uma bomba de combustível.
+Escreva um programa em Java, utilizando orientação a objetos, para controlar a operação de uma bomba de combustível.
 
 Classe Bomba de Combustível com no mínimo os seguintes atributos e métodos:
 
